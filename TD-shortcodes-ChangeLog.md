@@ -9,10 +9,10 @@ Editor: Benson
 Developer(s): Benson
 =================================================
 New Feature(s)
--
+- added border option on caption hover
 
 Fixd
--
+- fixed caption hover
 
 Remarks(s)
 Please add important notes here
